@@ -4,8 +4,10 @@
 La documentación no esta disponible 
 
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Mira el archivo [LICENSE](LICENSE) para más detalles.
+## Derechos Reservados
+© 2024 PsykoHack. Todos los derechos reservados.
+
+Este proyecto es propiedad exclusiva del autor. Todos los derechos están reservados. Ninguna parte de este proyecto puede ser reproducida, distribuida o transmitida de ninguna forma ni por ningún medio, incluyendo fotocopias, grabaciones u otros métodos electrónicos o mecánicos, sin el permiso previo y por escrito del autor.
 
 ## Autores
 - **Arevalo Cabezas Brandon Ariel** - Estudiante de la PUCE Sede Ibarra - Tec.Software
