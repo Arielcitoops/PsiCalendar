@@ -23,7 +23,7 @@ Este proyecto está en desarrollo. Las funcionalidades básicas están por imple
 ## Descripción
 Este proyecto es una aplicación web con la cual se busca ayuda a fortalecer el vinculo que tienen los estudiantes con sus emociones y a comprender mejor el desenvolvimiento de las mismas al registrarse bajo un calendario además de brindarles actividades y herramientas que puedan apoyar al bienestar de su salud mental
 
-##Link de la Pagina Web 
+## Link de la Pagina Web 
 
 Working on it baby.....
 
