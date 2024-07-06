@@ -7,7 +7,7 @@ La documentación no esta disponible
 Este proyecto es una aplicación web con la cual se busca ayuda a fortalecer el vinculo que tienen los estudiantes con sus emociones y a comprender mejor el desenvolvimiento de las mismas al registrarse bajo un calendario además de brindarles actividades y herramientas que puedan apoyar al bienestar de su salud mental
 
 ## Estado del Proyecto
-Este proyecto está en desarrollo. Las funcionalidades básicas están por implementarse
+Este proyecto está en desarrollo. El esqueleto ha sido creado , toda conexion de base de datos es iniexistente - no funciona
 
 ## Autores
 - **Arevalo Cabezas Brandon Ariel** - Estudiante de la PUCE Sede Ibarra - Tec.Software
@@ -24,5 +24,5 @@ Este proyecto es propiedad exclusiva del autor. Todos los derechos están reserv
 
 ## Link de la Pagina Web 
 
-Working on it baby.....
+.....
 
