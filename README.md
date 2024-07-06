@@ -15,7 +15,7 @@ Este proyecto está en desarrollo. El esqueleto ha sido creado , toda conexion d
 - **Almeida Farinango Cristian Mauricio** - Estudiante de la PUCE Sede Ibarra - Tec.Software
 
 ## Agradecimientos
-- Agradecimientos especiales a [Johnny Aragon](https://github.com/JohnAle1) por su ayuda y soporte.
+- Agradecimientos especiales a Mtr.[Johnny Aragon](https://github.com/JohnAle1) por su ayuda y soporte.
 
 ## Derechos Reservados
 © 2024 PsykoHack. Todos los derechos reservados.
