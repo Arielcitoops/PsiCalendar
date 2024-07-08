@@ -1,11 +1,13 @@
 # PsiCalendar v1
 
 ## Documentación
-Trabajado en su mayoria con PHP , HTML, CSS , JS.
+ESTRUCTURA DEL PROYECTO
+Librerías usadas :  FullCalendar en su versión js y css
+Frontend: Trabajado en su mayoría con HTML, CSS , JS.
+Backend: Implementado con PHP .
+Base de Datos:  MySql para almacenar  datos de usuarios y actividades.
 
-Base de Datos trabajada en MYSQL.
-
-La documentación sera publicada el 08/07/2024....
+https://drive.google.com/file/d/1IbBHObe2CrYYaZWSxmx05v7hgtBMpLKH/view?usp=sharing
 
 ## Uso Demostrado:
 
