@@ -1,4 +1,4 @@
-# PsiCalendar
+# PsiCalendar v1
 
 ## Documentación
 Trabajado en su mayoria con PHP , HTML, CSS , JS.
