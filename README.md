@@ -15,7 +15,7 @@ Este proyecto sigue en desarrollo debido a problemas tecnicos y personales de lo
 - **Almeida Farinango Cristian Mauricio** - Estudiante de la PUCE Sede Ibarra - Tec.Software
 
 ## Agradecimientos
-- Agradecimientos especiales a Mtr.[Johnny Aragon](https://github.com/JohnAle1) por su apoyo moral y soporte en este gran proyecto.
+- Agradecimientos especiales a Mgtr.[Johnny Aragon](https://github.com/JohnAle1) por su apoyo moral y soporte en este gran proyecto.
 
 ## Derechos Reservados
 © 2024 PsykoHack. Todos los derechos reservados.
