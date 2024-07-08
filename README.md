@@ -7,7 +7,7 @@ La documentación sera publicada en los proximos dias..
 Este proyecto es una aplicación web con la cual se busca ayuda a fortalecer el vinculo que tienen los estudiantes con sus emociones y a comprender mejor el desenvolvimiento de las mismas al registrarse bajo un calendario además de brindarles actividades y herramientas que puedan apoyar al bienestar de su salud mental
 
 ## Estado del Proyecto
-Este proyecto sigue en desarrollo debido a problemas tecnicos y personales de los desarrolladores , aun no cumple con las funcionalidades proporcionada en la documentación . Las funcionalidades de Login funcionan correctamente , app falla en calendarios. Trabajando tambien arduamente en los diseños :) . Dando el alma a este gran proyecto.
+Este proyecto sigue en desarrollo debido a problemas tecnicos y personales de los desarrolladores , aún no cumple con las funcionalidades proporcionadas en [Diagrama de Flujo de PsiCalendar](https://github.com/Arielcitoops/PsiCalendar/blob/main/ImgDiagrama.png) . Las funcionalidades de Login funcionan correctamente , app falla en calendarios. Trabajando tambien arduamente en los diseños :) . Dando el alma a este gran proyecto.
 
 ## Autores
 - **Arevalo Cabezas Brandon Ariel** - Estudiante de la PUCE Sede Ibarra - Tec.Software
