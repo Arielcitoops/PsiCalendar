@@ -10,7 +10,7 @@ La documentación sera publicada el 08/07/2024....
 Este proyecto es una aplicación web con la cual se busca ayuda a fortalecer el vinculo que tienen los estudiantes con sus emociones y a comprender mejor el desenvolvimiento de las mismas al registrarse bajo un calendario además de brindarles actividades y herramientas que puedan apoyar al bienestar de su salud mental
 
 ## Estado del Proyecto
-Este proyecto sigue en desarrollo , actualmente se encuentra en fase de subida a la web , cumple con el 85% de las funcionalidades proporcionadas en [Diagrama de Flujo de PsiCalendar](https://github.com/Arielcitoops/PsiCalendar/blob/main/ImgDiagrama.png) de manera local (https:localhost:PsiCalendar/ Trabajando en las funcionalidades independientes (Envio de Notificaciones , Check de correos electronicos Funcionalidad Galletas de la Suerte). Dando el alma a este gran proyecto.
+Este proyecto sigue en desarrollo , actualmente se encuentra en fase de subida a la web , cumple con el 85% de las funcionalidades proporcionadas en [Diagrama de Flujo de PsiCalendar](https://github.com/Arielcitoops/PsiCalendar/blob/main/ImgDiagrama.png) de manera local (http://localhost/PsiCalendarvPHP/index.php), Trabajando en las funcionalidades independientes (Envio de Notificaciones , Check de correos electronicos Funcionalidad Galletas de la Suerte) y en despliegue en la web. Dando el alma a este gran proyecto.
 
 ## Autores
 - **Arevalo Cabezas Brandon Ariel** - Estudiante de la PUCE Sede Ibarra - Tec.Software
