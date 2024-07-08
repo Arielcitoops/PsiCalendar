@@ -1,7 +1,7 @@
 # PsiCalendar
 
 ## Documentación
-La documentación sera publicada en los proximos dias..
+La documentación sera publicada el 08/07/2024....
 
 ## Descripción
 Este proyecto es una aplicación web con la cual se busca ayuda a fortalecer el vinculo que tienen los estudiantes con sus emociones y a comprender mejor el desenvolvimiento de las mismas al registrarse bajo un calendario además de brindarles actividades y herramientas que puedan apoyar al bienestar de su salud mental
