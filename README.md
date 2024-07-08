@@ -27,5 +27,5 @@ Este proyecto es propiedad exclusiva del autor. Todos los derechos están reserv
 
 ## Link de la Pagina Web 
 
-De momento funciona localmente , estamos trabajando arduamente para subirla a la web a disponibilidad de todos , tenganos paciencia <3.
+De momento funciona localmente , estamos trabajando arduamente para subirla a la web a disponibilidad de todos , tenganos paciencia.
 
