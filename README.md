@@ -1,6 +1,9 @@
 # PsiCalendar
 
 ## Documentación
+Trabajado en su mayoria con PHP , HTML, CSS , JS.
+Base de Datos trabajada en MYSQL.
+
 La documentación sera publicada el 08/07/2024....
 
 ## Descripción
