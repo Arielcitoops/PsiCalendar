@@ -2,9 +2,18 @@
 
 ## Documentación
 Trabajado en su mayoria con PHP , HTML, CSS , JS.
+
 Base de Datos trabajada en MYSQL.
 
 La documentación sera publicada el 08/07/2024....
+
+## Uso Demostrado:
+
+Link por subir
+
+## Uso/Correcta Descarga
+
+Descargar y descomprimir el archivo PsiCalendar(Codificacion) , crear dentro de /PsiCalendarvPHP la carpeta vids , en la carpeta vids descomprimir los 2 archivos PsiCalendar(rutavidspt1).zip y PsiCalendar(rutavidspt2).zip , con ello el codigo compilara correctamente al dar doble click en index.php
 
 ## Descripción
 Este proyecto es una aplicación web con la cual se busca ayuda a fortalecer el vinculo que tienen los estudiantes con sus emociones y a comprender mejor el desenvolvimiento de las mismas al registrarse bajo un calendario además de brindarles actividades y herramientas que puedan apoyar al bienestar de su salud mental
