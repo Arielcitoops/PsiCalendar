@@ -7,7 +7,11 @@ Frontend: Trabajado en su mayoría con HTML, CSS , JS.
 Backend: Implementado con PHP .
 Base de Datos:  MySql para almacenar  datos de usuarios y actividades.
 
+Documentacion en PDF:
 https://drive.google.com/file/d/1IbBHObe2CrYYaZWSxmx05v7hgtBMpLKH/view?usp=sharing
+
+Diagrama de Flujo PsiCalendar
+https://github.com/Arielcitoops/PsiCalendar/blob/main/ImgDiagrama.png 
 
 ## Uso Demostrado:
 
