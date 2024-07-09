@@ -44,6 +44,18 @@ Este proyecto es propiedad exclusiva del autor. Todos los derechos están reserv
 
 De momento funciona localmente , estamos trabajando arduamente para subirla a la web a disponibilidad de todos.
 
+## Proyección a futuro 
+
+.-Habilitar a Profesionales de la Salud para permitir observar el desarrollo de sus clientes 
+
+.-Modo Prevención de Suicidio/ Boton del Panico 
+
+.-Permitir la conexión de Google Fit para habilitar la funcionalidad de Deportes
+
+.-Mejorar la interfaz grafica
+
+.-Lanzamiento del Sistema (Intensamente) en el cual se podrá ver el resumen mensual mediante graficos , aplicar machine learning para Actividades personalizadas
+
 ## Bugs Conocidos
 
 - La app no desplegara ya que al descargar los archivos  y ejecutar , buscara la base de datos que fue generada localmente , por lo que es totalmente invalida sin el despliegue grafico en la web.
