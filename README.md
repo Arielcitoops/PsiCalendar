@@ -2,7 +2,7 @@
 
 ## Documentación
 ESTRUCTURA DEL PROYECTO
-Librerías usadas :  FullCalendar en su versión js y css
+Librerías usadas :  FullCalendar
 Frontend: Trabajado en su mayoría con HTML, CSS , JS.
 Backend: Implementado con PHP .
 Base de Datos:  MySql para almacenar  datos de usuarios y actividades.
@@ -13,19 +13,14 @@ https://drive.google.com/file/d/1IbBHObe2CrYYaZWSxmx05v7hgtBMpLKH/view?usp=shari
 Diagrama de Flujo PsiCalendar
 https://github.com/Arielcitoops/PsiCalendar/blob/main/ImgDiagrama.png 
 
-## Uso Demostrado:
-
-[Link de video Psicalendar](https://drive.google.com/file/d/1UZz1gpjudK4Mwq622Mw1YLkFey-u_-Pc/view?usp=sharing)
-
-## Uso/Correcta Descarga
-
-Descargar y descomprimir el archivo PsiCalendar(Codificacion) , crear dentro de /PsiCalendarvPHP la carpeta vids , en la carpeta vids descomprimir los 2 archivos PsiCalendar(rutavidspt1).zip y PsiCalendar(rutavidspt2).zip , con ello el codigo compilara correctamente al dar doble click en index.php
+## Uso Demostrado (Version 1):
+[Uso de PsiCalendar v1](https://drive.google.com/file/d/1UZz1gpjudK4Mwq622Mw1YLkFey-u_-Pc/view?usp=sharing)
 
 ## Descripción
 Este proyecto es una aplicación web con la cual se busca ayuda a fortalecer el vinculo que tienen los estudiantes con sus emociones y a comprender mejor el desenvolvimiento de las mismas al registrarse bajo un calendario además de brindarles actividades y herramientas que puedan apoyar al bienestar de su salud mental
 
 ## Estado del Proyecto
-Este proyecto sigue en desarrollo , actualmente se encuentra en fase de subida a la web , cumple con el 85% de las funcionalidades proporcionadas en [Diagrama de Flujo de PsiCalendar](https://github.com/Arielcitoops/PsiCalendar/blob/main/ImgDiagrama.png) de manera local (http://localhost/PsiCalendarvPHP/index.php), Trabajando en las funcionalidades independientes (Envio de Notificaciones , Check de correos electronicos Funcionalidad Galletas de la Suerte) y en despliegue en la web. Dando el alma a este gran proyecto.
+Este proyecto continua en fase de desarrollo , actualmente nos encontramos solucionado bugs , el proyecto cumple con el 87% de las funcionalidades proporcionadas en [Diagrama de Flujo de PsiCalendar](https://github.com/Arielcitoops/PsiCalendar/blob/main/ImgDiagrama.png) de manera local (http://localhost/PsiCalendarvPHP/index.php), Las funcionalidades independientes (Envio de Notificaciones , Check de correos electronicos Funcionalidad Galletas de la Suerte) debido a temas de tiempo se lanzaran en la 2da Version de PsiCalendar
 
 ## Autores
 - **Arevalo Cabezas Brandon Ariel** - Estudiante de la PUCE Sede Ibarra - Tec.Software
@@ -36,13 +31,13 @@ Este proyecto sigue en desarrollo , actualmente se encuentra en fase de subida a
 - Agradecimientos especiales a Mgtr.[Johnny Aragon](https://github.com/JohnAle1) por su apoyo moral y soporte en este gran proyecto.
 
 ## Derechos Reservados
-© 2024 PsykoHack. Todos los derechos reservados.
+© 2024 PsykoHacks. Todos los derechos reservados.
 
 Este proyecto es propiedad exclusiva del autor. Todos los derechos están reservados. Ninguna parte de este proyecto puede ser reproducida, distribuida o transmitida de ninguna forma ni por ningún medio, incluyendo fotocopias, grabaciones u otros métodos electrónicos o mecánicos, sin el permiso previo y por escrito del autor.
 
 ## Link de la Pagina Web 
 
-De momento funciona localmente , estamos trabajando arduamente para subirla a la web a disponibilidad de todos.
+Gracias al apoyo recibido de mucha gente , nos complace anunciar que PsiCalendar v1 se lanzará en su version web el dia 18 de Julio del 2024 , 22:00pm hora de Ecuador , Muchas gracias!
 
 ## Proyección a futuro 
 
@@ -56,13 +51,18 @@ De momento funciona localmente , estamos trabajando arduamente para subirla a la
 
 .-Lanzamiento del Sistema (Intensamente) en el cual se podrá ver el resumen mensual mediante graficos , aplicar machine learning para Actividades personalizadas
 
+Si deseas enviarnos tus ideas ¡SOMOS TODO OIDOS! :
+
+arielare2004@gmail.com // Con asunto "Recomendaciones - PsiCalendar"
+
 ## Bugs Conocidos
 
-- La app no desplegara ya que al descargar los archivos  y ejecutar , buscara la base de datos que fue generada localmente , por lo que es totalmente invalida sin el despliegue grafico en la web.
 - Al correr la app en todo momento la barra de navegacion mostrara los botones Iniciar Sesion y Registrar asi el usuario haya sido validado, tal y como se muestra en el video de apoyo.
 - El Calendario generado con la libreria FullCalendar no cambia de diseño por mas intentos realizados , estamos investigando acerca de esta libreria.
 - Error de diseño en el icono principal de PsiCalendar.
 - Al retornar a una pagina despues del Logout , sigue mostrando la pagina de actividades que deberian ser privadas para el usuario una vez cerrada la sesión , y deberia solicitar nuevamente su ingreso.
 - Posibles distorsiones al ejecutar en entornos mas de 1600x900 de resolucion de pantalla y entornos moviles.
 
+
+PsiCalendar - ThePsykoHacks editado el 16/07/2024 21:36pm por Brandon
 
