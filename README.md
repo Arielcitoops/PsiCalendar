@@ -1,10 +1,11 @@
-# PsiCalendar v1
+# PsiCalendar v1.1
 
 ## Documentación
+
 ESTRUCTURA DEL PROYECTO
 Librerías usadas :  FullCalendar
-Frontend: Trabajado en su mayoría con HTML, CSS , JS.
-Backend: Implementado con PHP .
+Frontend: Trabajado en su mayoría con HTML, CSS , JS
+Backend: Implementado con PHP 
 Base de Datos:  MySql para almacenar  datos de usuarios y actividades.
 
 Documentacion en PDF:
@@ -37,7 +38,7 @@ Este proyecto es propiedad exclusiva del autor. Todos los derechos están reserv
 
 ## Link de la Pagina Web 
 
-Gracias al apoyo recibido de mucha gente , nos complace anunciar que PsiCalendar v1 se lanzará en su version web el dia 18 de Julio del 2024 , 22:00pm hora de Ecuador , Muchas gracias!
+Gracias al apoyo recibido de mucha gente , nos complace anunciar que PsiCalendar v1 se lanzará en su version web y como proyecto independiente el dia 28 de Julio del 2024 , 22:00pm hora de Ecuador , Muchas gracias!
 
 ## Proyección a futuro 
 
