@@ -2,11 +2,7 @@
 
 ## Documentación
 
-ESTRUCTURA DEL PROYECTO
-Librerías Usadas :  FullCalendar
-Frontend: Trabajado en su mayoría con HTML, CSS , JS
-Backend: Implementado con PHP 
-Base de Datos:  MySql para almacenar  datos de usuarios y actividades.
+ESTRUCTURA DEL PROYECTO ---- Librerías Usadas :  FullCalendar ----- Frontend: Trabajado en su mayoría con HTML, CSS , JS ----- Backend: Implementado con PHP ----- Base de Datos: MySql para almacenar datos de usuarios y registros diarios.
 
 Documentacion en PDF:
 https://drive.google.com/file/d/1IbBHObe2CrYYaZWSxmx05v7hgtBMpLKH/view?usp=sharing
