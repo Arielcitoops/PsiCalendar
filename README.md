@@ -3,7 +3,7 @@
 ## Documentación
 
 ESTRUCTURA DEL PROYECTO
-Librerías usadas :  FullCalendar
+Librerías Usadas :  FullCalendar
 Frontend: Trabajado en su mayoría con HTML, CSS , JS
 Backend: Implementado con PHP 
 Base de Datos:  MySql para almacenar  datos de usuarios y actividades.
@@ -60,8 +60,6 @@ arielare2004@gmail.com // Con asunto "Recomendaciones - PsiCalendar"
 
 - Al correr la app en todo momento la barra de navegacion mostrara los botones Iniciar Sesion y Registrar asi el usuario haya sido validado, tal y como se muestra en el video de apoyo.
 - El Calendario generado con la libreria FullCalendar no cambia de diseño por mas intentos realizados , estamos investigando acerca de esta libreria.
-- Error de diseño en el icono principal de PsiCalendar.
-- Al retornar a una pagina despues del Logout , sigue mostrando la pagina de actividades que deberian ser privadas para el usuario una vez cerrada la sesión , y deberia solicitar nuevamente su ingreso.
 - Posibles distorsiones al ejecutar en entornos mas de 1600x900 de resolucion de pantalla y entornos moviles.
 
 
