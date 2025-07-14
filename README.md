@@ -19,7 +19,7 @@ https://github.com/Arielcitoops/PsiCalendar/blob/main/ImgDiagrama.png
 [Uso de PsiCalendar v1](https://drive.google.com/file/d/1UZz1gpjudK4Mwq622Mw1YLkFey-u_-Pc/view?usp=sharing)
 
 ## Descripción
-Este proyecto es una aplicación web con la cual se busca ayuda a fortalecer el vinculo que tienen los estudiantes con sus emociones y a comprender mejor el desenvolvimiento de las mismas al registrarse bajo un calendario además de brindarles actividades y herramientas que puedan apoyar al bienestar de su salud mental
+Este fue un proyecto de una aplicación web con intencion de ayudar a fortalecer el vinculo que tienen los estudiantes con sus emociones y a comprender mejor el desenvolvimiento de las mismas al registrarse bajo un calendario además de brindarles actividades y herramientas que puedan apoyar al bienestar de su salud mental
 
 ## Estado del Proyecto
 Proyecto en OFF
