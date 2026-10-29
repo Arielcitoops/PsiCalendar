@@ -1,0 +1,84 @@
+/* Estilo para todos */
+html {
+    height: 100%;
+    background-image: url('img/fondo-index.jpg');
+    background-size: cover; 
+    background-position: center;
+    position: relative;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.textocalendario {
+    text-align: center;
+}
+
+footer {
+    margin-top: auto;
+}
+
+/* Estilos Index.php */
+.titulopagina {
+    text-align: center;
+    font-family: "Indie Flower";
+}
+
+.parrafosinicio, .parrafoslogin {
+    font-size: x-large;
+    text-align: center;
+    font-family: "Indie Flower";
+}
+
+.btn-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btn-container a {
+    margin: 0 10px;
+}
+
+#logoindex {
+    display: block;
+    margin: auto;
+    width: 50%; 
+}
+
+.container {
+    position: relative;
+    z-index: 2;
+}
+
+/* -----Desde aqui empieza el login.php ---- */
+.titulo-login {
+    font-size: xx-large;
+    text-align: center;
+    font-family: "Indie Flower",;
+}
+
+.formulario-login {
+    /* estilos para el contenedor del formulario */
+    font-size: x-large;
+    text-align: center;
+    font-family: "Indie Flower",;
+}
+
+#input-usuario {
+    /* estilos para el input de usuario */
+    width: 175px;
+    height: 40px;
+    display: block; 
+    margin: 0 auto;
+}
+
+#input-password {
+    /* estilos para el input de contraseña */
+    width: 175px;
+    height: 40px;
+    display: block; 
+    margin: 0 auto;
+}
+
